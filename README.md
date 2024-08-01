@@ -62,7 +62,7 @@ Scripts: Includes the analysis scripts used to process the data and generate vis
 Results: Contains the final analysis results and visualizations.
 Reports: Includes the project report detailing methodology, analysis, and findings.
 How to Use
-Clone the repository: git clone https://github.com/yourusername/air-quality-analysis.git
+Clone the repository: git clone (https://github.com/ibtj21/DSA1080-AQI-PROJECT/blob/main)
 Navigate to the project directory: cd air-quality-analysis
 Explore the data and scripts to understand the analysis process.
 Run the analysis scripts to reproduce the results.
