@@ -40,4 +40,19 @@ This project was conducted as part of the DSA1080 class at United States Interna
 1. **Clone the repository**: Download the project files from GitHub by running the command:
    ```bash
    git clone https://github.com/ibtj21/DSA1080-AQI-PROJECT.git
+2.Navigate to the project directory:
+bash cd DSA1080-AQI-PROJECT
+3. Explore the data and scripts to understand the analysis process.
+4. Run the analysis scripts to reproduce the results.
+
+## Contributors
+-Hana Gashaw
+-Hetal Kumbharana
+-Mohamed Mohamed
+-Andrew Gitu
+-Branton Maungu
+-Sean Nderitu
+-Zakariya Muhumed
+## Contact
+-For any questions or feedback, please contact us at: 21ibtj@gmail.com
 
