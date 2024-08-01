@@ -38,7 +38,7 @@ Worst Air Quality: Beijing had the worst air quality during the specified period
 
 Project Structure
 
-Data collectionn:from OpenAQ
+Data collection:from OpenAQ
 
 Data Inspection
 
