@@ -39,13 +39,13 @@ Navigate to the project directory:DSA1080-AQI-PROJECT
 Explore the data and scripts to understand the analysis process.
 Run the analysis scripts to reproduce the results.
 
-Contributors
-Hana Gashaw
-Hetal Kumbharana  
-Mohamed Mohamed
-Andrew Gitu
-Branton Maungu
-Sean Nderitu 
+Contributors:
+Hana Gashaw,
+Hetal Kumbharana, 
+Mohamed Mohamed,
+Andrew Gitu,
+Branton Maungu,
+Sean Nderitu ,
 Zakariya muhumed
 
 Contact
