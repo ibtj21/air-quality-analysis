@@ -26,11 +26,28 @@ Best Air Quality: Sofienbergparken had the best air quality during the specified
 Worst Air Quality: Beijing had the worst air quality during the specified period.
 
 Project Structure
+Data collectionn:from OpenAQ
 
-Data: Contains the raw data files for the pollutants measured across the cities.
-Scripts: Includes the analysis scripts used to process the data and generate visualizations.
-Results: Contains the final analysis results and visualizations.
-Reports: Includes the project report detailing methodology, analysis, and findings.
+Data Inspection
+
+Data Cleaning
+
+Data Manuplation
+
+Data Exploration
+
+Data Visualization and Interpretation
+
+Time Series Analysis
+
+Tools Used:
+
+Pyhton pandas
+
+matplotlib
+
+seaborn
+
 
 How to Use:
 
